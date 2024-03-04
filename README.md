@@ -27,7 +27,8 @@ Check out this video demonstration of the quiz project in action:
 
 In this video, you can see a walkthrough of how the quiz works and how users can interact with it.
 ---
-##Small core task
+## Small core task
+
 -Security: Begin by implementing input validation on the client side to ensure that user inputs are within expected ranges and formats. Then, validate and sanitize inputs on the server side to prevent against common security vulnerabilities such as SQL injection and XSS attacks. Consider implementing measures like rate limiting and CSRF protection to enhance security further.
 -Validation: Start by validating user inputs on the client side using JavaScript to provide immediate feedback to users. Utilize HTML5 form validation attributes for basic validation and implement custom validation logic for more complex scenarios. On the server side, validate inputs again to ensure data integrity and security.
 -Tests: Begin by writing unit tests for critical functions and components of the quiz application using a testing framework like Jest or Mocha. Test user interactions, data fetching, and business logic to ensure correctness and reliability. Gradually expand test coverage to include integration tests for API endpoints and end-to-end tests for user workflows.
