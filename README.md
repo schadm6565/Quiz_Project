@@ -8,9 +8,9 @@ This project is a quiz game where users can answer multiple-choice questions and
 ## How to Use
 
 Follow these steps to play the quiz game:
-- Select an avatar
-- Select an accessory for the avatar
-- Start the quiz
+- Select an avatar.
+- Select an accessory for the avatar.
+- Start the quiz.
 - Read each question carefully.
 - Select the option that you believe is the correct answer.
 - Click the "Next" button to move to the next question.
@@ -32,7 +32,7 @@ In this video, you can see a walkthrough of how the quiz works and how users can
 
 ## Small core task
 
-- Security: Begin by implementing input validation on the client side to ensure that user inputs are within expected ranges and formats. Then, validate and sanitize inputs on the server side to prevent against common security vulnerabilities such as SQL injection and XSS attacks. Consider implementing measures like rate limiting and CSRF protection to enhance security further.
+- Security: Begin by implementing input validation on the client side to ensure that user inputs are within expected ranges and formats. Then, validate and sanitize inputs on the server side to prevent against common security vulnerabilities such as SQL injection and XSS attacks. Consider implementing measures such as rate limiting and CSRF protection to enhance security further.
 - Validation: Start by validating user inputs on the client side using JavaScript to provide immediate feedback to users. Utilize HTML5 form validation attributes for basic validation and implement custom validation logic for more complex scenarios. On the server side, validate inputs again to ensure data integrity and security.
 - Tests: Begin by writing unit tests for critical functions and components of the quiz application using a testing framework like Jest or Mocha. Test user interactions, data fetching, and business logic to ensure correctness and reliability. Gradually expand test coverage to include integration tests for API endpoints and end-to-end tests for user workflows.
 - Progressive Enhancement: Design the quiz application with a focus on accessibility and usability from the outset. Use semantic HTML markup and progressive enhancement techniques to ensure core functionality is accessible to all users, including those with disabilities or using assistive technologies. Enhance the user experience with JavaScript for advanced features while ensuring that essential functionality works without it.
