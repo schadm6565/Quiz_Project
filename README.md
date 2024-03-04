@@ -20,7 +20,7 @@ Follow these steps to play the quiz game:
 
 
 Feel free to play the quiz multiple times and challenge yourself to get a perfect score!
-
+---
 ## Demo
 
 Check out this video demonstration of the quiz project in action:
