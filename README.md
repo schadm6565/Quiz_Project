@@ -8,8 +8,8 @@ This project is a quiz game where users can answer multiple-choice questions and
 ## How to Use
 
 Follow these steps to play the quiz game:
-- **Select an avatar
-- **Select an accessory for the avatar
+- Select an avatar
+- Select an accessory for the avatar
 - **Start the quiz
 - **Read each question carefully.
 - **Select the option that you believe is the correct answer.
@@ -23,9 +23,11 @@ Feel free to play the quiz multiple times and challenge yourself to get a perfec
 
 ---
 ## Demo
+
 Check out this video demonstration of the quiz project in action:
 
 In this video, you can see a walkthrough of how the quiz works and how users can interact with it.
+
 ---
 ## Small core task
 
